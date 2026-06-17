@@ -20,7 +20,9 @@ A responsive landing page with an interactive navigation menu that changes style
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/18582016-ce59-4f0d-b75e-71e1ff9818a3" />
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d42f457a-d744-4e9e-83e6-4422535a53c5" />
 
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2c2a56ed-579d-4b31-9f18-e545016a217c" />
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b3ab5800-cc7e-443d-a907-75458c8223a6" />
