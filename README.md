@@ -1,28 +1,91 @@
 # SCT_WD_1
 
-# Responsive Landing Page
+# Responsive Landing Page - SkillCraft Technology
 
-## Description
-A responsive landing page with an interactive navigation menu that changes style when hovered over and when scrolling.
+## Task 01 - Web Development Internship
+
+This project is a modern and responsive landing page developed as part of **Task 01** of the SkillCraft Technology Web Development Internship.
+
+The website features a professional navigation menu, smooth scrolling, animated sections, student reviews, internship domains, achievements, and an application call-to-action section. The design is fully responsive and works seamlessly across desktop, tablet, and mobile devices.
+
+
 
 ## Features
-- Fixed navigation bar
-- Hover effects on menu items
-- Scroll-based navbar styling
-- Responsive design
+
+✅ Fixed Responsive Navigation Bar
+
+✅ Smooth Scrolling Navigation
+
+✅ Hover Effects on Menu Items
+
+✅ Dynamic Navbar Color Change on Scroll
+
+✅ Hero Section with Call-to-Action Buttons
+
+✅ About SkillCraft Technology Section
+
+✅ Internship Domains Section
+
+✅ Student Reviews/Testimonial Cards
+
+✅ Achievement Statistics Section
+
+✅ Apply Now Section
+
+✅ Contact Section
+
+✅ Scroll-to-Top Button
+
+✅ Mobile-Friendly Responsive Design
+
+
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
 
-## Output
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/18582016-ce59-4f0d-b75e-71e1ff9818a3" />
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d42f457a-d744-4e9e-83e6-4422535a53c5" />
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2c2a56ed-579d-4b31-9f18-e545016a217c" />
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b3ab5800-cc7e-443d-a907-75458c8223a6" />
+## Project Structure
+
+
+SCT_WD_1/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+## Live demo
+
+
+
+## Learning outcomes
+
+Through this project, I learned:
+
+Responsive Web Design
+Navigation Menu Development
+CSS Flexbox and Grid
+JavaScript DOM Manipulation
+Scroll Event Handling
+UI/UX Design Principles
+Interactive Website Development
+
+## Future Enhancements
+Dark Mode Toggle
+Backend Form Integration
+User Authentication
+Internship Application Portal
+Newsletter Subscription System
+
+## Internship Details
+
+Organization: SkillCraft Technology
+Track: Web Development Internship
+Task: Task 01 – Responsive Landing Page
+
+## Author
+ Mahveen Sultana
