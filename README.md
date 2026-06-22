@@ -59,7 +59,7 @@ SCT_WD_1/
 └── README.md
 
 ## Live demo
-
+ https://syedamahveen.github.io/SCT_WD_1/
 
 
 ## Learning outcomes
